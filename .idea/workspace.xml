@@ -1,15 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53d26e43-1179-4494-b960-5f9626bcb7ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_brain_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/smart_brain_app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_brain_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/smart_brain_app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_brain_app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_brain_app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/smart_brain_app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_brain_app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/smart_brain_app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_brain_app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/smart_brain_app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1U7TjhgkeV2wQ6i3hBTRuQykCZG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react_native/rn-first-app" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/smart_brain_app/src/Components" />
+      <recent name="$PROJECT_DIR$/smart_brain_app/src/styles" />
+      <recent name="$PROJECT_DIR$/smart_brain_app/src/style" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <module name="smartbrain" />
+      <setting name="path" value="$PROJECT_DIR$/smart_brain_app/src/App.js" />
+      <setting name="shellParams" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mongo.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d26e43-1179-4494-b960-5f9626bcb7ce" name="Default Changelist" comment="" />
+      <created>1574706770554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574706770554</updated>
+      <workItem from="1574706773248" duration="975000" />
+      <workItem from="1574960071419" duration="33604000" />
+      <workItem from="1575228303307" duration="46000" />
+      <workItem from="1575228374697" duration="5045000" />
+      <workItem from="1575355343833" duration="690000" />
+      <workItem from="1575412587659" duration="12929000" />
+      <workItem from="1575788323601" duration="2756000" />
+      <workItem from="1576004688630" duration="14000" />
+      <workItem from="1576248274863" duration="1156000" />
+      <workItem from="1576440504030" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="156" width="624" height="563" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575228317295">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="483" y="156" width="624" height="563" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1600.822@0.27.1600.822" timestamp="1575228317295" />
+    <state x="933" y="140" width="524" height="594" key="FileChooserDialogImpl" timestamp="1576482236362">
+      <screen x="0" y="27" width="1600" height="822" />
+    </state>
+    <state x="933" y="140" width="524" height="594" key="FileChooserDialogImpl/0.27.1600.822@0.27.1600.822" timestamp="1576482236362" />
   </component>
 </project>

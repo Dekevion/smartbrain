@@ -5,9 +5,75 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+button{
+  cursor: pointer;
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+.center {
+  text-align: center;
+  margin-top: 3%;
+}
+
+/*img{*/
+/*  margin-left: 75%;*/
+/*  margin-bottom: 10%;*/
+/*}*/
+#brain{
+  margin: 26%;
+}
+
+.name{
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0,0.1);
+  margin-bottom: 8px;
+}
+
+#password{
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0,0.1);
+  margin-right: 3px;
+
+}
+
+#main{
+  border-radius: 10px;
+  padding: 8px;
+  margin-left: 5px;
+  border: 1px solid rgba(0,0,0,0.2);
+  width: fit-content;
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+#sign{
+  margin-top: 5px;
+  border-radius: 5px;
+  background-color: rgba(0,0,0,0.1);
+  border: 1px solid rgba(0,0,0,0.1);
+  height: 25px;
+}
+
+#email {
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0,0.1);
+  margin-bottom: 8px;
 }
