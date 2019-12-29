@@ -100,6 +100,7 @@ class App extends Component {
         }
         this.setState({route: route})
     };
+
     // componentDidMount() {
     //     fetch('http://localhost:3001')
     //         .then(response => response.json())
@@ -117,8 +118,7 @@ class App extends Component {
                 <Navigation isSignedIn={this.state.isSignedIn} onRouteChange={this.onRouteChange}></Navigation>
 
 
-                {this.state.route === 'home'
-                    ? <div>
+                     <div>
                         <Logo/>
                         <Rank></Rank>
                         <ImageLinkForm input_change={this.onInputChange} click={this.onSubmit}></ImageLinkForm>
@@ -126,14 +126,13 @@ class App extends Component {
                     </div>
 
 
-                    : (
-                        this.state.route === 'sign_in' ?
-                            <Sign_in onRouteChange={this.onRouteChange}></Sign_in>
-                            : <Register onRouteChange={this.onRouteChange} loadUser={this.loadUser} sign={this.state.isSignedIn} user={this.state.user}></Register>
-                    )
+
+                            {/*<Sign_in onRouteChange={this.onRouteChange}></Sign_in>*/}
+                            {/* <Register onRouteChange={this.onRouteChange} loadUser={this.loadUser} sign={this.state.isSignedIn} user={this.state.user}></Register>*/}
 
 
-                }
+
+
             </div>
         );
     }
